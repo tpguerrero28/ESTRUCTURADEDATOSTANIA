@@ -12,3 +12,4 @@ C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\obj\Debug\net9.0\re
 C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\obj\Debug\net9.0\semana02.pdb
 C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\obj\Debug\net9.0\semana02.genruntimeconfig.cache
 C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\obj\Debug\net9.0\ref\semana02.dll
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\obj\Debug\net9.0\semana02.sourcelink.json
