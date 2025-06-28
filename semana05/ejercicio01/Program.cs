@@ -1,8 +1,23 @@
-﻿class Ejercicio2 {
-    static void Main() {
-        string[] asignaturas = { "ESTRUCTURA DE DATOS", "ADMINISTRACION", "FUNDAMENTOS", "INSTALACIONES", "METODOLOGIA" };
-        foreach (string asignatura in asignaturas) {
-            Console.WriteLine($"YO ESTUDIO {asignatura}");
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        string[] materias = 
+        { 
+            "ESTRUCTURA DE DATOS", 
+            "ADMINISTRACION", 
+            "FUNDAMENTOS", 
+            "INSTALACIONES", 
+            "METODOLOGIA" 
+        };
+
+        for (int i = 0; i < materias.Length; i++)
+        {
+            Console.WriteLine(materias[i]);
         }
     }
 }
+
+
