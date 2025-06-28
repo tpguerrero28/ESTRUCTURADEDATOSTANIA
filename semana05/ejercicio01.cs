@@ -5,7 +5,7 @@ class Ejercicio2
 {
     static void Main()
     {
-        List<string> asignaturas = new List<string> { "ESTRUCTURA DE DATOS", "ADMINISTRACION", "INSTALACION", "METODOLOGIA", "FUNDAMENTOS" };
+        List<string> asignaturas = new List<string> { "Matemáticas", "Física", "Química", "Historia", "Lengua" };
 
         foreach (string asignatura in asignaturas)
         {
@@ -13,4 +13,5 @@ class Ejercicio2
         }
     }
 }
+
 
