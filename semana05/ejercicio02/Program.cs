@@ -19,8 +19,17 @@ class Program
         for (int i = 0; i < materias.Count; i++)
         {
             Console.Write("¿Qué nota sacaste en " + materias[i] + "? ");
-            string entrada = Console.ReadLine();
-            notas[i] = float.Parse(entrada);
+            string? entrada = Console.ReadLine();
+
+            // Validamos que entrada no sea null
+            if (!string.IsNullOrWhiteSpace(entrada))
+            {
+                notas[i] = float.Parse(entrada);
+            }
+            else
+            {
+                notas[i] = 0; // Valor por defecto si no se escribe nada
+            }
         }
 
         Console.WriteLine("\nResumen:");
