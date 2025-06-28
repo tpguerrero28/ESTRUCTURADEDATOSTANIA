@@ -8,29 +8,19 @@ class Program
         Console.WriteLine("Ejercicio 2:");
         List<string> materias = new List<string>
         {
-           "ESTRUCTURA DE DATOS",
-           "ADMINISTRACION",
-           "FUNDAMENTOS",
-           "INSTALACIONES",
-           "METODOLOGIA"
-
+            "Estructura de Datos",
+            "Administración",
+            "Fundamentos",
+            "Instalaciones",
+            "Metodología"
         };
         float[] notas = new float[materias.Count];
 
         for (int i = 0; i < materias.Count; i++)
         {
             Console.Write("¿Qué nota sacaste en " + materias[i] + "? ");
-            string? entrada = Console.ReadLine();
-
-            // Validamos que entrada no sea null
-            if (!string.IsNullOrWhiteSpace(entrada))
-            {
-                notas[i] = float.Parse(entrada);
-            }
-            else
-            {
-                notas[i] = 0; // Valor por defecto si no se escribe nada
-            }
+            string entrada = Console.ReadLine();
+            notas[i] = float.Parse(entrada);
         }
 
         Console.WriteLine("\nResumen:");
