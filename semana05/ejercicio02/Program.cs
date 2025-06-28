@@ -5,7 +5,8 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Ejercicio 2:");
+        Console.WriteLine("Ejercicio 1:");
+
         List<string> materias = new List<string>
         {
             "ESTRUCTURA DE DATOS",
@@ -14,19 +15,10 @@ class Program
             "INSTALACIONES",
             "METODOLOGIA"
         };
-        float[] notas = new float[materias.Count];
 
-        for (int i = 0; i < materias.Count; i++)
+        foreach (string materia in materias)
         {
-            Console.Write("¿QUE NOTA SACASTE EN " + materias[i] + "? ");
-            string entrada = Console.ReadLine();
-            notas[i] = float.Parse(entrada);
-        }
-
-        Console.WriteLine("\nResumen:");
-        for (int i = 0; i < materias.Count; i++)
-        {
-            Console.WriteLine("EN " + materias[i] + " SACASTE " + notas[i]);
+            Console.WriteLine("YO ESTUDIO " + materia);
         }
     }
 }
