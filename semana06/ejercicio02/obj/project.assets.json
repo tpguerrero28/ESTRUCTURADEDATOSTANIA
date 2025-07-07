@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana06\\ejercicio02\\ejercicio02.csproj",
+      "projectUniqueName": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana02\\semana06\\ejercicio02\\ejercicio02.csproj",
       "projectName": "ejercicio02",
-      "projectPath": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana06\\ejercicio02\\ejercicio02.csproj",
+      "projectPath": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana02\\semana06\\ejercicio02\\ejercicio02.csproj",
       "packagesPath": "C:\\Users\\tgmak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana06\\ejercicio02\\obj\\",
+      "outputPath": "C:\\Users\\tgmak\\Desktop\\PROYECTO ESTRUCTURA DE DATOS\\semana02\\semana06\\ejercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tgmak\\AppData\\Roaming\\NuGet\\NuGet.Config"
