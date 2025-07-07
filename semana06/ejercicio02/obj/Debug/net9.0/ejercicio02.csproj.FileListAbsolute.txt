@@ -1,0 +1,5 @@
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\semana06\ejercicio02\obj\Debug\net9.0\ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\semana06\ejercicio02\obj\Debug\net9.0\ejercicio02.AssemblyInfoInputs.cache
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\semana06\ejercicio02\obj\Debug\net9.0\ejercicio02.AssemblyInfo.cs
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\semana06\ejercicio02\obj\Debug\net9.0\ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\tgmak\Desktop\PROYECTO ESTRUCTURA DE DATOS\semana02\semana06\ejercicio02\obj\Debug\net9.0\ejercicio02.sourcelink.json
