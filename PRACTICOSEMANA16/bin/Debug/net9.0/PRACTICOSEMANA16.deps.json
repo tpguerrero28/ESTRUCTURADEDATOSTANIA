@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PRACTICOSEMANA16/1.0.0": {
+        "runtime": {
+          "PRACTICOSEMANA16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICOSEMANA16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
